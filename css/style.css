@@ -309,6 +309,10 @@ hr {
   }
 }
 
+footer {
+	background-color: grey;	
+}
+
 html {
   scroll-behavior: smooth;
 }
