@@ -313,6 +313,10 @@ footer {
 	background-color: grey;	
 }
 
+footer {
+	color: #FFAC99 !important; 
+}
+
 html {
   scroll-behavior: smooth;
 }
